@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-- 🏢 I’m currently training in ITI in Front-end & Cross Platform Mobile Development Track.
+- 🏢 I’m currently training in AL Azhar in Front-end 
 - 💬 Ask me about my experience with JavaScript, and ReactJS, or anything related to Front-end web development.
 - 👨‍💻 Check out my portfolio at &nbsp; <img src="https://media.giphy.com/media/JoWK4dUIsYK4Fv0E0D/giphy.gif" width="50"> &nbsp; to see some of the projects I've worked on.
 - 🌱 I’m currently working on React Projects.
@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 
 <h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
-<a href="https://linkedin.com/in/m-elashmawy"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:muhammed.elashmawy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMail-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/+201205858831" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
+<a href=" https://www.linkedin.com/in/israa-rashed-65207a230/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:israarashed2021@hotmail.com " target="_blank"><img src="https://img.shields.io/badge/-GMail-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/+" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 <br/><br/>
 
 
