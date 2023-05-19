@@ -14,92 +14,73 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Amr, Welcome To My Github Profile ♥</h1>
-<!-- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name is Amr, Welcome To My Github Profile ♥  -->
-<!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+   Welcome to <em>Israa Rashed</em>'s profile! 
+  <img src="">
+</h1>
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=Front-End+Web+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+</p>
+
+
+
+- 🏢 I’m currently training in ITI in Front-end & Cross Platform Mobile Development Track.
+- 💬 Ask me about my experience with JavaScript, and ReactJS, or anything related to Front-end web development.
+- 👨‍💻 Check out my portfolio at &nbsp; <img src="https://media.giphy.com/media/JoWK4dUIsYK4Fv0E0D/giphy.gif" width="50"> &nbsp; to see some of the projects I've worked on.
+- 🌱 I’m currently working on React Projects.
+- 👯 I’m looking to collaborate with many developer to work in different projects. 
 <br/>
-<br/>
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
-
-<h3>🚀 About Me</h3> 
-<h4> I'm Amr Elsayed from Egypt. I'm a Front-End Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior web developer and learning increasingly. </h4>
 
 
-	
-
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
-
-### Languages and Tools 🛠 : 
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![tailwind](https://img.shields.io/badge/-tailwindcss-15b4c1?style=flat-square&logo=tailwindcss&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000)
+<h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
+<a href="https://linkedin.com/in/m-elashmawy"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:muhammed.elashmawy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMail-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/+201205858831" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
+<br/><br/>
 
 
-- ### I’m currently learning 
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)
-![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
 
+<h2><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width=45> Tech Stack</h2>
 
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+![HTML](https://img.shields.io/badge/-HTML-013?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-013?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-013?style=for-the-badge&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-013?style=for-the-badge&logo=bootstrap&logoColor=0969da)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-013?style=for-the-badge&logo=sass)&nbsp;
+![Pug.js](https://img.shields.io/badge/-Pug-013?style=for-the-badge&logo=pug)&nbsp;
+![React.js](https://img.shields.io/badge/-React-013?style=for-the-badge&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-013?style=for-the-badge&logo=redux)&nbsp;
+![Angular.js](https://img.shields.io/badge/-Angular-013?style=for-the-badge&logo=angular)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-013?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-013?style=for-the-badge&logo=jest)&nbsp;
+![WebPack](https://img.shields.io/badge/-WebPack-013?style=for-the-badge&logo=WebPack)&nbsp;
+![React.native](https://img.shields.io/badge/-React%20Native-013?style=for-the-badge&logo=react)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-013?style=for-the-badge&logo=Flutter)&nbsp;
+![Git](https://img.shields.io/badge/-Git-013?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-013?style=for-the-badge&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-013?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![java](https://custom-icon-badges.demolab.com/badge/Java-013.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![cpp](https://custom-icon-badges.demolab.com/badge/C++-013.svg?style=for-the-badge&logo=cpp2&logoColor=white)&nbsp;
+![SQL](https://custom-icon-badges.demolab.com/badge/SQL-013.svg?style=for-the-badge&logo=database&logoColor=white)&nbsp;
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-013.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-013.svg?style=for-the-badge&logo=notion&logoColor=white)
+![GitHubPages](https://img.shields.io/badge/GitHub%20Pages-013.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-013.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-013.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+<br/><br/>
 
- ### 🔗Contact Me
-[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/DevAmr74/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:AmrSaaayed74@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/amr-elsayed74?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
-[![CodePen.io](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/amrsayed74)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amr.sayed74/)
-[![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Amr_ElSsyed)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01005074554)
+<details> 
+  <summary><h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 25px> Github Stats and Activity</h2></summary>
+  
+  <h3>🔥 Streak Stats</h3>
+  <img src="https://streak-stats.demolab.com?user=m-ashmawy&border_radius=10&exclude_days=Fri" height="180px"/>
 
-<!-- ### 🔗Contact Me
-[![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/DevAmr74/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:AmrSaaayed74@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amr-elsayed74?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)](https://www.linkedin.com/in/amr-elsayed74?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
-[![CodePen.io](https://img.shields.io/badge/CodePen.io-000?style=for-the-badge&logo=CodePen&logoColor=white&target=_blank)](https://codepen.io/amrsayed74)
-<a href="https://www.instagram.com/amr.sayed74/" alt="Instagram"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="https://twitter.com/Amr_ElSsyed" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=+201005074554) -->
-
-
-<!-- ### 🔗 Links
-[![CodePen.io](https://img.shields.io/badge/CodePen.io-000?style=for-the-badge&logo=CodePen&logoColor=white&target=_blank)](https://codepen.io/amrsayed74)
-[![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/DevAmr74/)
-[![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-elsayed74?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Amr_ElSsyed)
-[![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/amr.sayed74/)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=01005074554)
-<a href="mailto:AmrSaaayed74@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
-
- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
-
-<!-- ### Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSayed74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<br/>
--->
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript  :"D
-
-
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
-
+  <h3>💻 GitHub Profile Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api/?username=m-ashmawy&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false&title_color=fb8c00&icon_color=fb8c00" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-ashmawy&langs_count=8&layout=compact&theme=default&hide_border=false&title_color=fb8c00&icon_color=fb8c00&hide=Jupyter%20Notebook,Roff" height="180px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
